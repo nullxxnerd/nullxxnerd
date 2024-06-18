@@ -8,11 +8,10 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🔭 I’m currently learning  **ML/Deep learning**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/nullxxnerd/nullxxnerd/issues)**
+
+💬 Ask me about **Node.js, React, Python... or anything [here](https://github.com/nullxxnerd/nullxxnerd/issues)**
 
  </div>
  

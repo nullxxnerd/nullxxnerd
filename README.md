@@ -2,11 +2,11 @@
 
 ###
 
-<h5 align="left">Hello! I'm a passionate Data Scientist and AI Engineer with expertise in machine learning, deep neural networks, and data visualization technologies.</h5>
+<h4 align="left">Hello! I'm a passionate Data Scientist and AI Engineer with expertise in machine learning, deep neural networks, and data visualization technologies.</h4>
 
 ###
 
-<h3 align="left">My Tech Stack:</h3>
+<h2 align="left">My Tech Stack:</h2>
 
 ###
 
@@ -71,19 +71,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nullxxnerd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nullxxnerd/nullxxnerd/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nullxxnerd/nullxxnerd/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nullxxnerd/nullxxnerd/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nullxxnerd/nullxxnerd/output/snake.svg" alt="Snake animation" />
 
 ###

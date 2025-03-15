@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Ali Reza Torabi and I'm a Data Scientist</h2>
+<h2 align="left">Hi 👋! My name is Ali Reza Torabi</h2>
 
 ###
 
-<h4 align="left">Hello! I'm a passionate Data Scientist and AI Engineer with expertise in machine learning, deep neural networks, and data visualization technologies.</h4>
+<h3 align="left">Hello! I'm a passionate Data Scientist and AI Engineer with expertise in machine learning, deep neural networks, and data visualization technologies.</h3>
 
 ###
 
